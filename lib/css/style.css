@@ -9,7 +9,7 @@
 
 #headText {
   color: white;
-  font-family: 'Uncial Antiqua', cursive;
+  font-family: 'Mystery Quest', cursive;
   font-size: 4.3cm;
   text-shadow: 4px 4px darkblue;
   margin-bottom: 20px;
@@ -19,4 +19,25 @@
   color: white;
   font-family: 'Molle', cursive;
   font-size: 30px;
+}
+
+h2 {
+  font-family: 'Molle', cursive;
+  font-style: oblique;
+  font-weight: bold;
+  font-size: 2.0em;
+  text-align: center;
+}
+
+h3, p  {
+  text-align: center;
+  font-family: 'Elsie', cursive;
+}
+
+#adressP {
+  font-size: 2.0em
+}
+
+h3 {
+  font-size: 2.5em
 }
