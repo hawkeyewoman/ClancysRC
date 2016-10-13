@@ -1,0 +1,22 @@
+.jumbotron {
+  background: url(http://tinyurl.com/z8mtmg8) no-repeat center center;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+  height: 480px;
+  image-rendering: auto;
+}
+
+#headText {
+  color: white;
+  font-family: 'Uncial Antiqua', cursive;
+  font-size: 4.3cm;
+  text-shadow: 4px 4px darkblue;
+  margin-bottom: 20px;
+}
+
+#headP {
+  color: white;
+  font-family: 'Molle', cursive;
+  font-size: 30px;
+}
