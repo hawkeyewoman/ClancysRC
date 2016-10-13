@@ -2,7 +2,7 @@
 <html>
   <head>
     <title></title>
-    <?php require_once("lib/headutils.php"); ?>
+    <?php require_once("lib/partials/headUtils.php"); ?>
   </head>
   <body>
     <?php require_once("lib/partials/navbar.php");?>
