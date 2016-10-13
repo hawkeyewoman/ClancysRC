@@ -9,6 +9,29 @@
   </head>
   <body>
     <?php require_once("lib/partials/navbar.php");?>
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-6"/div>
+        <h2>Appetizer's</h2>
+      </div>
+      <div class="container">
+        <div class="row">
+      <div class="col-xs-6"/div>
+        <h2>Entree's</h2>
+      </div>
+      <div class="container">
+        <div class="row">
+      <div class="col-xs-6"/div>
+        <h2>Desserts</h2>
+      </div>
+      <div class="container">
+        <div class="row">
+      <div class="col-xs-6"/div>
+        <h2>Beverages</h2>
+      </div>
+
+    </div>
+
   </body>
 
 </html>
