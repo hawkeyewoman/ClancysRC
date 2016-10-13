@@ -9,9 +9,9 @@
         <span class="icon-bar"></span>
       </button>
       <a class="navbar-brand" href="index.php">Home</a>
-      <a class="navbar-brand" href="index.php">Menu</a>
-      <a class="navbar-brand" href="index.php">Catering</a>
-      <a class="navbar-brand" href="index.php">Location</a>
+      <a class="navbar-brand" href="menu.php">Menu</a>
+      <a class="navbar-brand" href="catering.php">Catering</a>
+      <a class="navbar-brand" href="location.php">Location</a>
     </div>
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -28,7 +28,7 @@
           <a href="#" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
         </li>
         <li>
-          <a href="#" target="_blank"><i class="fa fa-snapchat" aria-hidden="true">></i></a>
+          <a href="#" target="_blank"><i class="fa fa-snapchat" aria-hidden="true"></i></a>
         </li>
       </ul>
     </div><!-- /.navbar-collapse -->
